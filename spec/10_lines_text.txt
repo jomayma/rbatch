@@ -1,0 +1,10 @@
+l1  - Hola
+l2  - guapo, que
+l3  - te
+l4  - cu
+l5  - en
+l6  - tas?
+l7  - parece
+l8  - que acaba ya
+l9  - este
+l10 - archivo!
